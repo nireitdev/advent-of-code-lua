@@ -1,3 +1,3 @@
 Resolving with Lua some interesting [Advent of Code](https://adventofcode.com/) problems.
 
-Req. Lua > 5.4
+Req. Lua >= 5.4
