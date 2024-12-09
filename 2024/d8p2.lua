@@ -46,7 +46,8 @@ while not out_map do                                --- mientras no salga del ma
 end
 
 function PrintMapa(mapa)
-    print()
+    -- os.execute('clear')    --- linux
+    os.execute('cls')    --- windows
     for i=1,#mapa do
         print(table.concat(mapa[i]))
     end

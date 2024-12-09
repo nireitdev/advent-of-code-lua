@@ -19,7 +19,8 @@ function Distancia(pos1,pos2)  --- pos = {x,y}
 end
 
 function PrintMapa(mapa)
-    print()
+    -- os.execute('clear')    --- linux
+    os.execute('cls')    --- windows
     for i=1,#mapa do
         print(table.concat(mapa[i]))
     end
