@@ -61,5 +61,5 @@ for i=1,#blocks do
     end
 end
 
-print("Solucion Parte 2 = "..result)   -- R: 64232583769826423258376982
+print("Solucion Parte 2 = "..result)   -- R: 6423258376982
 
