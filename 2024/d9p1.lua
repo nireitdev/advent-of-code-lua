@@ -1,4 +1,6 @@
 --- Day 9: Disk Fragmenter ---
+--- Uso doble vector: uno para los "free" y otro para los datos
+--- y hago swapping entre los dos.
 
 --- 
 local filename = "d9.txt"
