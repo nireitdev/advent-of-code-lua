@@ -101,4 +101,4 @@ for i=0,#expanddisk-1 do
         result = result + i * expanddisk[i+1]
     end
 end
-print("Solucion Parte 2 = "..result)   -- R: 6423258376982 --too high
+print("Solucion Parte 2 = "..result)   -- R: 6423258376982
