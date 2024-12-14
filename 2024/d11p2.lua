@@ -4,7 +4,7 @@
 --- Parte 2: se cachea dos cosas: 
 ---     1 - las operaciones (0->1, split() , *2024)
 ---     2 - los valores de cada iteracion repetidos => iter 6 = {2024:2, 48:2, 49:1, etc}
---- El agiliza y ahora mucha memoria/cpu en calculos repetidos.
+--- Agiliza y se ahorra mucha memoria/cpu en calculos repetidos.
 
 local filename = "d11.txt"
 -- local filename = "test.txt"
